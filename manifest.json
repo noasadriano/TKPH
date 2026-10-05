@@ -2,7 +2,7 @@
   "name": "Calculadora de TKPH OTR",
   "short_name": "Calc TKPH",
   "description": "Calculadora de Tonelada-Quilômetro Por Hora para dimensionamento de pneus de mineração.",
-  "start_url": "./calculadora_tkph.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f4f7f6",
   "theme_color": "#0f766e",
